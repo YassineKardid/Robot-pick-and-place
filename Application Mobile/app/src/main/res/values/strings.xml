@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RobotControl</string>
+    <string name="str_connect">CONNECT</string>
+    <string name="str_motor1">Moteur1</string>
+    <string name="str_motor2">Moteur2</string>
+    <string name="str_motor3">Moteur3</string>
+    <string name="str_motor4">Moteur4</string>
+    <string name="str_rotation_max">Rotation Max</string>
+    <string name="str_rotation_min">Rotation Min</string>
+    <string name="str_send_settings">Send Settings</string>
+    <string name="str_welcome">Welcome</string>
+    <string name="str_robot_name">Pick and Place Robot</string>
+    <string name="str_choise">Choise the object</string>
+    <string name="str_choise_method">Choise the control method</string>
+    <string name="str_manual">Manual</string>
+    <string name="str_automatic">Automatic</string>
+</resources>
